@@ -33,7 +33,6 @@ export const initAnalytics = ({
           en: eventName,
           ed: data
         }
-
         const promise = fetch(
           `https://${process.env.VERCEL_URL}/_vercel/insights/event`,
           {

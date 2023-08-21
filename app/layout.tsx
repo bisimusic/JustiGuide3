@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     default: 'JustiGuide',
     template: `JustiGuide AI Chatbot`
   },
-  description: 'Dolores, a helpful assistant legal matters chatbot.',
+  description: 'Dolores, a helpful assistant for legal matters chatbot.',
   themeColor: [
     { media: '(prefers-color-scheme: light)', color: 'white' },
     { media: '(prefers-color-scheme: dark)', color: 'black' }
